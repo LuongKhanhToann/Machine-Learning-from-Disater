@@ -1,1 +1,1 @@
-# Titanic-Machine-Learning-from-Disater
+# Machine-Learning-from-Disater
